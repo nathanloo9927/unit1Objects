@@ -14,6 +14,12 @@ public class TurtleWorld
         turtle.turnLeft();
         turtle.forward(50);
         turtle.turnLeft();
-        turtle.forward(50);
-    }
+        turtle.forward(55);
+        turtle.penUp();
+        turtle.backward(5);
+        turtle.turnLeft();
+        turtle.forward(119);
+        turtle.penDown();
+        turtle.forward(1);
+        turtle.penUp();
 }
