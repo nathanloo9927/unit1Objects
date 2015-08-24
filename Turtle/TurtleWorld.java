@@ -22,4 +22,5 @@ public class TurtleWorld
         turtle.penDown();
         turtle.forward(1);
         turtle.penUp();
+    }
 }
